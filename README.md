@@ -1,5 +1,5 @@
 # AnimalDetection
-This is for our Cloud Computing project.
+This is for LfD project.
 Detection is done using YoloV5 model
 
 # Dataset:
